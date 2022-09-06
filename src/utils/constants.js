@@ -1,0 +1,5 @@
+export const API_URL = "http://192.168.0.106:1337"
+export const TOKEN = "token"
+export const SEARCH_HISTORY = "search-history"
+export const CART = "cart"
+export const STRIPE_PUBLISHABLE_KEY = "pk_test_51LeA4pFIN98thUlUaWarp0uI0pX0038IkNjkzfSTn3oHE3C8U6KbFJ5Ns4mFVbCfiseji38ZJ2p3XLoXAcwcvzlo00XbcHl6TC"
